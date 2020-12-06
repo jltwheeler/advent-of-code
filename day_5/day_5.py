@@ -34,7 +34,7 @@ def find_missing_id(min_id: int, max_id: int) -> int:
     return False
 
 
-def part_one(boarding: str) -> int:
+def part_one(boardings: str) -> int:
     ids = [get_boarding_id(boarding) for boarding in boardings]
 
     return ids

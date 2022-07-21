@@ -17,6 +17,8 @@
 I'm using [Advent of Code](advent-of-code) to help build up my Rust programming
 skills.
 
-> NB: Solutions to 2020 were originally written in python. I will one day redo
-> these problems in rust.
+Currently working on getting through [2021](2021/)
+
+> NB: Solutions to [2020](2020/) were originally written in python. I
+> will one day redo these problems in rust.
 

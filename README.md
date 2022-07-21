@@ -7,17 +7,16 @@
 
   <h3 align="center">🎄Advent of Code🎄</h3>
 
-  <p align="center">My solutions to the 2020 advent of code challenge</p>
+  <p align="center">Repo to store my advent of code solutions.</p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-This repo contains my solutions to the 2020 [advent of code][advent-of-code]
-challenge. My solutions have been written in [python 3.8][python] and developed in
-[Ubuntu 20.04][ubuntu].
+I'm using [Advent of Code](advent-of-code) to help build up my Rust programming
+skills.
 
-[advent-of-code]: https://adventofcode.com/
-[python]: https://www.python.org/downloads/release/python-385/
-[ubuntu]: https://releases.ubuntu.com/20.04/
+> NB: Solutions to 2020 were originally written in python. I will one day redo
+> these problems in rust.
+
